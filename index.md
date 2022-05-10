@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` text [click here](https://pornhub.com)
 **Bonjour**
 
 [Link](https://github.com/Alexandre-Crespin/tp1-3/settings/pages) and ![Image](src)
