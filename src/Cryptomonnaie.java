@@ -14,6 +14,7 @@ public class Cryptomonnaie{
     public double getValeurDeJeton() {
         return valeurDeJeton;
     }
+
     @Override
     public String toString() {
         return String.format("%5s",nom) + ":" + String.format("%10.1f",valeurDeJeton);

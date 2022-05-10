@@ -19,10 +19,10 @@ public class CryptoMarche {
     }
 
     /**
-     * Cette fonction recherche sur le marchÃ© tous les portefeuilles 
-     * du propriÃ©taire et calcule son capital en euros. 
+     * Cette fonction recherche sur le marché tous les portefeuilles 
+     * du propriétaire et calcule son capital en euros. 
      * @param proprietare
-     * @return capital en euros du propriÃ©tare.
+     * @return capital en euros du propriétare.
      */
     public double capitalEnEuros(String proprietaire){
         double argent = 0.0;
@@ -36,9 +36,9 @@ public class CryptoMarche {
     }
 
     /**
-     * Cette fonction recherche sur le marchÃ© tous les portefeuilles 
+     * Cette fonction recherche sur le marché tous les portefeuilles 
      * d'un type de devise et calcule le volume total de capital de 
-     * cette devise sur le marchÃ© 
+     * cette devise sur le marché 
      * @param monnaie
      * @return capital total en circulation de la cryptomonnaie (en euros).
      */
@@ -51,7 +51,6 @@ public class CryptoMarche {
             }     
         }
         return argent;
-
     }
 
     @Override
