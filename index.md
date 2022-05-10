@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[click here](https://pornhub.com)
+
 You can use the [editor on GitHub](https://github.com/Alexandre-Crespin/tp1-3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -21,7 +23,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text [click here](https://pornhub.com)
+**Bold** and _Italic_ and `Code` text 
 **Bonjour**
 
 [Link](https://github.com/Alexandre-Crespin/tp1-3/settings/pages) and ![Image](src)
